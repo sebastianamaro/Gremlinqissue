@@ -2,7 +2,7 @@
 
 namespace GremlinQNotWorkingExample
 {
-    public class Node : Vertex
+    public class AnotherNodeType : Vertex
     {
         public string Name { get; set; }
     }

@@ -2,8 +2,7 @@
 
 namespace GremlinQNotWorkingExample
 {
-    public class Node : Vertex
+    public class AnotherEdgeType : Edge
     {
-        public string Name { get; set; }
     }
 }

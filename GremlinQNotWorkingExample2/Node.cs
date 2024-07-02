@@ -1,4 +1,6 @@
-﻿namespace GremlinQWorkingExample
+﻿using GremlinQNotWorkingExample.Model;
+
+namespace GremlinQNotWorkingExample2
 {
     public class Node : Vertex
     {

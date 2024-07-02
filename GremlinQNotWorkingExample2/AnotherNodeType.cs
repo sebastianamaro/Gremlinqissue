@@ -1,8 +1,8 @@
 ﻿using GremlinQNotWorkingExample.Model;
 
-namespace GremlinQNotWorkingExample
+namespace GremlinQNotWorkingExample2
 {
-    public class Node : Vertex
+    public class AnotherNodeType : Vertex
     {
         public string Name { get; set; }
     }

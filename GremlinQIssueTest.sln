@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GremlinQWorkingExample", "GremlinQWorkingExample\GremlinQWorkingExample.csproj", "{BD6DD41B-1F6C-451F-B634-296BE4EAE000}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GremlinQWorkingExample", "GremlinQWorkingExample\GremlinQWorkingExample.csproj", "{BD6DD41B-1F6C-451F-B634-296BE4EAE000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GremlinQNotWorkingExample", "GremlinQNotWorkingExample\GremlinQNotWorkingExample.csproj", "{39FF3D20-7AE2-48E1-95D7-BBEE0D7FAFF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GremlinQNotWorkingExample", "GremlinQNotWorkingExample\GremlinQNotWorkingExample.csproj", "{39FF3D20-7AE2-48E1-95D7-BBEE0D7FAFF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GremlinQNotWorkingExample.Model", "GremlinQNotWorkingExample.Model\GremlinQNotWorkingExample.Model.csproj", "{10BAA5C8-9F55-4259-BFCF-249CF1A1293C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{39FF3D20-7AE2-48E1-95D7-BBEE0D7FAFF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39FF3D20-7AE2-48E1-95D7-BBEE0D7FAFF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39FF3D20-7AE2-48E1-95D7-BBEE0D7FAFF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10BAA5C8-9F55-4259-BFCF-249CF1A1293C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BAA5C8-9F55-4259-BFCF-249CF1A1293C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BAA5C8-9F55-4259-BFCF-249CF1A1293C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BAA5C8-9F55-4259-BFCF-249CF1A1293C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
